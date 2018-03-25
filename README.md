@@ -2,7 +2,7 @@
 ノートPC風デザイン
 
 ## 実行結果
-[【ここをクリック】](https://xekid78.github.io/WebSideMenu/)
+[【ここをクリック】](https://xekid78.github.io/WebLaptopStyleDesign/)
   
 ## 開発環境
 | 開発ツール |  |
